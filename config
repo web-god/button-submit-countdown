@@ -1,0 +1,7 @@
+Host rashidiqbal-mri
+  HostName github.com
+  IdentityFile ~/.ssh/rashidiqbal-mri
+
+Host web-god
+  HostName github.com
+  IdentityFile ~/.ssh/web-god
